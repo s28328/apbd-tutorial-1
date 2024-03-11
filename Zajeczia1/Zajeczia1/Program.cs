@@ -6,4 +6,9 @@
         Console.WriteLine("New Line");
         Console.WriteLine("=====");
     }
+
+    public static void average(int[] arr)
+    {
+        
+    }
 }
