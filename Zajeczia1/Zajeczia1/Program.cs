@@ -22,7 +22,7 @@
 
     public static void SecondFeature()
     {
-        Console.WriteLine("Second Feature");
+        Console.WriteLine("Second Main-Feature");
     }
 
     public static void Test()
