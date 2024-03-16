@@ -14,4 +14,9 @@
             int g = 10;
         }
     }
+
+    public static void someFeature()
+    {
+        Console.WriteLine("Wow.Need Rebase.");
+    }
 }
