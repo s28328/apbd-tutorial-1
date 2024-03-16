@@ -24,4 +24,9 @@
     {
         Console.WriteLine("Second Feature");
     }
+
+    public static void Test()
+    {
+        
+    }
 }
