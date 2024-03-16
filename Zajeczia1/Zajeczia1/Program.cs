@@ -15,8 +15,13 @@
         }
     }
 
-    public static void someFeature()
+    public static void SomeFeature()
     {
         Console.WriteLine("Wow.Need Rebase.");
+    }
+
+    public static void SecondFeature()
+    {
+        Console.WriteLine("Second Feature");
     }
 }
